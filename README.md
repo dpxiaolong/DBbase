@@ -37,17 +37,26 @@ public class MainActivity extends AppCompatActivity {
 
 
 //        //2.3 删除数据演示
+
 //        dbAutoWorker.deleteById(Student.class,2);
 
 
 //        //2.4 修改某一条数据根据id
+
 //        ContentValues values = new ContentValues();
+
 //        values.put("age",30);
+
 //        values.put("isMale",true);
+
 //        values.put("name","meichangsu");
+
 //        values.put("salary",5000);
+
 //        int result = dbAutoWorker.updateById(Student.class,values,4);
+
 //        Log.i(TAG,"upadate result"+result);
+
     }
 
     @Override
