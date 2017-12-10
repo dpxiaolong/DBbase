@@ -1,10 +1,16 @@
 一：功能简介
+
 傻瓜式的数据库操作框架，简单三部完成增/删/改/查。
+
 二：支持类型
+
 支持由八种基本数据类型封装的任意javabean
 
+
 //使用示例
+
 public class MainActivity extends AppCompatActivity {
+
 
     private static final String TAG = "MainActivity";
     private DbAutoWorker dbAutoWorker;
